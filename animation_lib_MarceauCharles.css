@@ -4,7 +4,7 @@
 	}
 
 .bip{
-	/*animation: nomKeyframes duré-animation duré-délai répétition direction*/
+	/*animation: nomKeyframes durée-animation durée-délai répétition direction*/
 	-webkit-animation: battement 4s 0s infinite linear;
 	-moz-animation: battement 4s 0s infinite linear;
 	-ms-animation: battement 4s 0s infinite linear;
@@ -288,7 +288,7 @@
 	
 .pop{
 	font-size: 18px;
-	/*animation: nomKeyframes duré-animation duré-délai répétition direction*/
+	/*animation: nomKeyframes durée-animation durée-délai répétition direction*/
 	-webkit-animation: grossir 2s 0s infinite linear;
 	-moz-animation: grossir 2s 0s infinite linear;
 	-ms-animation: grossir 2s 0s infinite linear;
@@ -450,7 +450,7 @@
 
 .vent{
 	font-size: 24px;
-	/*animation: nomKeyframes duré-animation duré-délai répétition direction*/
+	/*animation: nomKeyframes durée-animation durée-délai répétition direction*/
 	-webkit-animation: tomber 2s 1s infinite linear;
 	-moz-animation: tomber 2s 1s infinite linear;
 	-ms-animation: tomber 2s 1s infinite linear;
@@ -618,7 +618,7 @@
 	background-color: green;
 	border-top-right-radius: 90%;
 	border-bottom-right-radius: 90%;
-	/*animation: nomKeyframes duré-animation duré-délai répétition direction*/
+	/*animation: nomKeyframes durée-animation durée-délai répétition direction*/
 	-webkit-animation: secondes 60s 0s infinite cubic-bezier(0,1.75,0.75,1.75);
 	-moz-animation: secondes 60s 0s infinite cubic-bezier(0,1.75,0.75,1.75);
 	-ms-animation: secondes 60s 0s infinite cubic-bezier(0,1.75,0.75,1.75);
@@ -2126,7 +2126,7 @@
 	border-radius: 50%;
 	background-color: red;
 	opacity: 0;
-	/*animation: nomKeyframes duré-animation duré-délai répétition direction*/
+	/*animation: nomKeyframes durée-animation durée-délai répétition direction*/
 	-webkit-animation: bond 2s 0s 1 linear;
 	-moz-animation: bond 2s 0s 1 linear;
 	-ms-animation: bond 2s 0s 1 linear;
